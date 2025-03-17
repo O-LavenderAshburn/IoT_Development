@@ -1,2 +1,2 @@
 # IoT_Development
-Bluetooth and other IoT Development Repo
+The purpose of this repo is the document and track IoT projects past, current and future authored by myself.
